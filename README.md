@@ -11,7 +11,6 @@
 [Create React App](https://create-react-app.dev/)<br>
 [Material UI](https://create-react-app.dev/)<br>
 [React Router](https://reactrouter.com/)<br>
-[Formik](https://formik.org/)<br>
 [React Chart JS](https://react-chartjs-2.js.org/)<br>
 [Images](https://www.freepik.com/)<br>
 [Images](https://free3dicon.com/)<br>
